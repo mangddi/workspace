@@ -2,8 +2,7 @@
 
 int main()
 {
-    int a = 3;
-    printf("%d", a);
-    
+    printf("ddd");
+
     return 0;
 }
